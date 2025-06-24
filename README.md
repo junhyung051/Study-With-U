@@ -1,1 +1,1 @@
-#eng-kor-dictionary
+eng-kor-dictionary

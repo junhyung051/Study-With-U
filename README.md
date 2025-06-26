@@ -1,1 +1,1 @@
-studying site
+studying reservation site (web)

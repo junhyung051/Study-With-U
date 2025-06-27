@@ -63,13 +63,6 @@ Pull request는 언제나 환영입니다. 큰 변경 사항은 먼저 이슈를
 
 Pull Request를 생성합니다.
 
-라이선스
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 LICENSE를 참고하세요.
-
-문의
-이메일: your_email@example.com
-
-깃허브 이슈: Issues
 
 yaml
 복사

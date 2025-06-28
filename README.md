@@ -94,8 +94,6 @@ ________________________________________
 
 ## 7. 📊 UML 다이어그램
 
-![image](https://github.com/user-attachments/assets/97d07aaf-dc05-4602-9cda-ddd3f871f734)
-![image](https://github.com/user-attachments/assets/986f8231-512d-4143-be3c-b90f7b9a4109)
 
 
 

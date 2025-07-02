@@ -7,6 +7,6 @@
 login_app/
 │
 ├── app.py
-├── templates/
+├── templates-
 │   ├── login.html
 │   └── home.html

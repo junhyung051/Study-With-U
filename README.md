@@ -3,10 +3,15 @@
 ## 1. 🧩 주제 (Project Topic)
 스터디 매칭 서비스를 제공하는 웹사이트
 
-디렉터리 구조는 아래와 같이 설정해 해주세요.
+디렉터리 구조
+아래와 같이 설정해 해주세요.
 login_app/
 │
 ├── app.py
 ├── templates-
 │   ├── login.html
 │   └── home.html
+
+실행방법
+python app.py
+웹 브라우저에서 http://127.0.0.1:5000 접속
